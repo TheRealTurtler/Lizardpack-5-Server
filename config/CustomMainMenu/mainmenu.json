@@ -1,0 +1,139 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "textures:lizardcraft3.png",
+            "posX" : 3,
+            "posY" : 5,
+            "width" : 200,
+            "height" : 40,
+            "alignment" : "top_left"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "Forever alone",
+            "posX" : 2,
+            "posY" : 70,
+            "width" : 100,
+            "height" : 20,
+			"alignment" : "left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "Server time",
+            "posX" : 2,
+            "posY" : 95,
+            "width" : 100,
+            "height" : 20,
+			"alignment" : "left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "Magic!",
+            "posX" : 2,
+            "posY" : 120,
+            "width" : 100,
+            "height" : 20,
+			"alignment" : "left",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "Adjust your shit",
+            "posX" : -100,
+            "posY" : 3,
+            "width" : 98,
+            "height" : 20,
+			"alignment" : "top_right",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "Pls no",
+            "posX" : -100,
+            "posY" : -35,
+            "width" : 98,
+            "height" : 20,
+			"alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        }
+
+    },
+    
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "posX" : -242,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+        
+        "forge":{
+			"text" : "Minecraft #mcversion#",
+            "posX" : 2,
+            "posY" : -20,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_left"
+		},
+		"modsloaded":{
+			"text" : "#modsloaded# Magical Things Loaded",
+            "posX" : 2,
+            "posY" : -10,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_left"
+		}
+    },
+    
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : 200,
+            "posY" : 40,
+            "color" : -256,
+            "alignment" : "top_left",
+            "texts" : "file:minecraft:texts/splashes.txt"
+        },
+        
+        "background":
+        {
+            "image" : "textures:background2.png",
+            "mode" : "fill"
+        }
+    }
+}
