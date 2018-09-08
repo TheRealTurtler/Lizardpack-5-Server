@@ -28,16 +28,16 @@
 27 is Occupied by enderzoo.DireSlime(crazypants.enderzoo.entity.EntityDireSlime)
 28 is Occupied by EntityPrimedCharge(crazypants.enderzoo.charge.EntityPrimedCharge)
 29 is Occupied by bloodTNT(com.arc.bloodarsenal.common.entity.EntityBloodTNT)
-30 is Occupied by extraplanets.EvolvedGhastBoss(com.mjr.extraplanets.entities.bosses.EntityEvolvedGhastBoss)
-31 is Occupied by extraplanets.EvolvedIceSlimeBoss(com.mjr.extraplanets.entities.bosses.EntityEvolvedIceSlimeBoss)
-32 is Occupied by extraplanets.EvolvedSnowmanBoss(com.mjr.extraplanets.entities.bosses.EntityEvolvedSnowmanBoss)
-33 is Occupied by extraplanets.CreeperBossEris(com.mjr.extraplanets.entities.bosses.defaultBosses.EntityCreeperBossEris)
-34 is Occupied by extraplanets.EvolvedMagmaCube(com.mjr.extraplanets.entities.monsters.EntityEvolvedMagmaCube)
-35 is Occupied by extraplanets.EvolvedIceSlime(com.mjr.extraplanets.entities.monsters.EntityEvolvedIceSlime)
-36 is Occupied by extraplanets.EvolvedWitch(com.mjr.extraplanets.entities.monsters.EntityEvolvedWitch)
-37 is Occupied by extraplanets.EvolvedEnderman(com.mjr.extraplanets.entities.monsters.EntityEvolvedEnderman)
-38 is Occupied by extraplanets.EvolvedBlaze(com.mjr.extraplanets.entities.monsters.EntityEvolvedBlaze)
-39 is Occupied by extraplanets.EvolvedBlueCreeper(com.mjr.extraplanets.entities.monsters.EntityBlueCreeper)
+30 is Avaible
+31 is Avaible
+32 is Avaible
+33 is Avaible
+34 is Avaible
+35 is Avaible
+36 is Avaible
+37 is Avaible
+38 is Avaible
+39 is Avaible
 40 is Occupied by MinecartCommandBlock(mods.railcraft.common.carts.EntityCartCommand)
 41 is Occupied by Boat(net.minecraft.entity.item.EntityBoat)
 42 is Occupied by MinecartRideable(mods.railcraft.common.carts.EntityCartBasic)
@@ -65,10 +65,10 @@
 64 is Occupied by WitherBoss(net.minecraft.entity.boss.EntityWither)
 65 is Occupied by Bat(net.minecraft.entity.passive.EntityBat)
 66 is Occupied by Witch(net.minecraft.entity.monster.EntityWitch)
-67 is Occupied by extraplanets.EvolvedRedCreeper(com.mjr.extraplanets.entities.monsters.EntityEvolvedRedCreeper)
-68 is Occupied by extraplanets.EvolvedPowerSkeleton(com.mjr.extraplanets.entities.monsters.EntityEvolvedPowerSkeleton)
-69 is Occupied by extraplanets.EvolvedGiantSpider(com.mjr.extraplanets.entities.monsters.EntityEvolvedGiantSpider)
-70 is Occupied by extraplanets.EvolvedMiniEnderman(com.mjr.extraplanets.entities.monsters.EntityEvolvedMiniEnderman)
+67 is Avaible
+68 is Avaible
+69 is Avaible
+70 is Avaible
 71 is Avaible
 72 is Avaible
 73 is Avaible

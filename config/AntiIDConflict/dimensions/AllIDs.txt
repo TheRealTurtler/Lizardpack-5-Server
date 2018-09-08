@@ -25,7 +25,7 @@
 -76 is Avaible
 -75 is Avaible
 -74 is Avaible
--73 is Occupied by: Space Station 0, Provider: (id: -73, class: class com.mjr.extraplanets.planets.Uranus.spacestation.WorldProviderUranusOrbit)
+-73 is Occupied by: Outer Lands, Provider: (id: -73, class: class makeo.gadomancy.common.utils.world.WorldProviderTCEldrich)
 -72 is Avaible
 -71 is Avaible
 -70 is Avaible

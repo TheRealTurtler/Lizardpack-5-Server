@@ -36,10 +36,6 @@ Found creative tab: EnderIO
 Found creative tab: decorations
 Found creative tab: EnderTechAll
 Found creative tab: EnderZoo
-Found creative tab: SpaceItemsTab
-Found creative tab: SpaceBlocksTab
-Found creative tab: SpaceToolsTab
-Found creative tab: SpaceArmorTab
 Found creative tab: extratic.parts
 Found creative tab: extratic.blocks
 Found creative tab: extratic.items
@@ -149,6 +145,7 @@ Found creative tab: bdew.templates
 Found creative tab: guideapi.creativeTab
 Found creative tab: immersiveintegration
 Found creative tab: ironbackpacks
+Found creative tab: powersuits
 Found creative tab: RfTools
 Found creative tab: RfToolsDimlets
 Found creative tab: tabSimplyJetpacks
@@ -156,7 +153,6 @@ Found creative tab: Thaumic Bases Blocks
 Found creative tab: Thaumic Bases Items
 Found creative tab: thaumicdyes
 Found creative tab: ThaumicEnergistics
-Found creative tab: thaumicinfusion
 Found creative tab: thebetweenlands.block
 Found creative tab: thebetweenlands.herbLore
 Found creative tab: thebetweenlands.plants
@@ -222,17 +218,17 @@ override called. Params: Mekanism, GlowPanel, 0
 Regex match found! Mekanism:GlowPanel matches Mekanism:GlowPanel.
 Found ItemStack Mekanism:GlowPanel. 64xitem.GlowPanel@0
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: ImmersiveEngineering:stoneDecoration_3
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, ImmersiveEngineering:stoneDecoration_3
+getRandomMaterial called. Returned: ImmersiveEngineering:storage_10
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, ImmersiveEngineering:storage_10
 Loading: ExtraUtilities.js
 override called. Params: ExtraUtilities, drum, 0,1
 Regex match found! ExtraUtilities:drum matches ExtraUtilities:drum.
 Found ItemStack ExtraUtilities:drum. 64xtile.extrautils:drum@0
-getRandomMaterial called. Returned: ImmersiveEngineering:storage_3
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, ImmersiveEngineering:storage_3
+getRandomMaterial called. Returned: ImmersiveEngineering:stoneDecoration
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, ImmersiveEngineering:stoneDecoration
 Loading: BuildCraft.js
-getFacadesSize called. Returned: 4435
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 746
+getFacadesSize called. Returned: 4219
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 911
 Loading: Bibliocraft.js
 override called. Params: BiblioCraft, *, 0
 Regex match found! BiblioCraft:* matches BiblioCraft:Armor Stand.
@@ -368,8 +364,8 @@ Found ItemStack BiblioCraft:tile.BiblioFramedChest. 64xtile.BiblioFramedChest@0
 Loading: AppliedEnergistics2.js
 getFacadeItem called. Returned: appliedenergistics2:item.ItemFacade
 getSubTypes called.
-getNumberOfTypes called. Returned: 3071
-override called. Params: appliedenergistics2, item.ItemFacade, 1977
+getNumberOfTypes called. Returned: 2868
+override called. Params: appliedenergistics2, item.ItemFacade, 1126
 Regex match found! appliedenergistics2:item.ItemFacade matches appliedenergistics2:item.ItemFacade.
 Found ItemStack appliedenergistics2:item.ItemFacade. 64xitem.appliedenergistics2.ItemFacade@0
 Loading: Tcon.js
