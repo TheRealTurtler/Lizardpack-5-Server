@@ -1,0 +1,11 @@
+ERROR: system: AutoSpawner is already defined in that package
+INFO: MineTweaker: Building registry
+INFO: MineTweaker: Sucessfully built item registry
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command mfr
+INFO: Adding recipe for Sanguine Scientiem
+INFO: Adding recipe for Green Heart Canister
+INFO: Adding recipe for Miniature Green Heart
+INFO: Removing 3 furnace recipes
+INFO: Adding furnace recipe for <ore:dustCoal>
+INFO: Adding furnace recipe for <ore:dustCharcoal>
