@@ -29,4 +29,4 @@ recipes.addShapeless(<TConstruct:heartCanister:6>, [<TConstruct:heartCanister:4>
 
 // ================================================================================
 //#MARKER ADD SHAPED
-recipes.addShaped(<TConstruct:heartCanister:5>, [[<TwilightForest:item.charmOfLife1>, <DraconicEvolution:dragonHeart>, <xreliquary:phoenix_down>], [<DraconicEvolution:dragonHeart>, <TConstruct:heartCanister:3>, <DraconicEvolution:dragonHeart>], [<GalacticraftMars:tile.mars:8>, <GalacticraftMars:tile.mars:8>, <GalacticraftMars:tile.mars:8>]]);
+recipes.addShaped(<TConstruct:heartCanister:5>, [[<Thaumcraft:ItemRingRunic:1>, <AWWayofTime:demonicSlate>, <ActuallyAdditions:itemPotionRing:4>], [<ore:ingotDraconiumAwakened>, <TConstruct:heartCanister:3>, <ore:ingotDraconiumAwakened>], [<ore:ingotDesh>, <ore:eternalLifeEssence>, <ore:ingotDesh>]]);
