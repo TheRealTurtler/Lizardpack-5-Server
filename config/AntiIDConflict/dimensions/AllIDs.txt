@@ -3,7 +3,7 @@
 -98 is Occupied by: Spirit World, Provider: (id: -98, class: class com.emoniph.witchery.dimension.WorldProviderDreamWorld)
 -97 is Occupied by: Mirror, Provider: (id: -97, class: class com.emoniph.witchery.dimension.WorldProviderMirror)
 -96 is Occupied by: Torment, Provider: (id: -96, class: class com.emoniph.witchery.dimension.WorldProviderTorment)
--95 is Occupied by: CompactMachinesWorld, Provider: (id: -95, class: class org.dave.CompactMachines.machines.world.WorldProviderMachines)
+-95 is Avaible
 -94 is Avaible
 -93 is Avaible
 -92 is Avaible

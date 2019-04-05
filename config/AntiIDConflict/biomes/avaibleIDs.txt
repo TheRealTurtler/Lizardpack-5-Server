@@ -1,4 +1,4 @@
-Total amount of free biome ids: D:\Michael\GitHub\Lizardpack-5-Server\config\AntiIDConflict\biomes\avaibleIDs.txt
+Total amount of free biome ids: D:\Program Files\Minecraft\MultiMC\instances\Lizardpack-5.0-5.11\minecraft\config\AntiIDConflict\biomes\avaibleIDs.txt
 List of free biome ids:
 59
 60

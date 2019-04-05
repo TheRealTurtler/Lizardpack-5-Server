@@ -1,5 +1,5 @@
-Total amount of free potion ids: 164
-Total amount of occupied potion ids: 192
+Total amount of free potion ids: 162
+Total amount of occupied potion ids: 194
 Total amount of conflicted potion ids: 0
 All ids and their position:
 0 is Occupied by bl.elixir.sagittarius (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
@@ -57,8 +57,8 @@ All ids and their position:
 52 is Occupied by Swimming (com.arc.bloodarsenal.common.potion.PotionBloodArsenal)
 53 is Occupied by Soul Burn (com.arc.bloodarsenal.common.potion.PotionBloodArsenal)
 54 is Avaible
-55 is Avaible
-56 is Avaible
+55 is Occupied by Radiation Sickness (Reika.ReactorCraft.Auxiliary.PotionRadiation)
+56 is Occupied by Frozen Solid (Reika.RotaryCraft.Auxiliary.FreezePotion)
 57 is Avaible
 58 is Avaible
 59 is Avaible

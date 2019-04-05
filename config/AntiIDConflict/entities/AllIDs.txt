@@ -27,7 +27,7 @@
 26 is Occupied by enderzoo.DireWolf(crazypants.enderzoo.entity.EntityDireWolf)
 27 is Occupied by enderzoo.DireSlime(crazypants.enderzoo.entity.EntityDireSlime)
 28 is Occupied by EntityPrimedCharge(crazypants.enderzoo.charge.EntityPrimedCharge)
-29 is Occupied by bloodTNT(com.arc.bloodarsenal.common.entity.EntityBloodTNT)
+29 is Avaible
 30 is Avaible
 31 is Avaible
 32 is Avaible

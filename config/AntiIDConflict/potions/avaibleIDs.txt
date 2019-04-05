@@ -1,4 +1,4 @@
-Total amount of free potion ids: D:\Michael\GitHub\Lizardpack-5-Server\config\AntiIDConflict\potions\avaibleIDs.txt
+Total amount of free potion ids: D:\Program Files\Minecraft\MultiMC\instances\Lizardpack-5.0-5.11\minecraft\config\AntiIDConflict\potions\avaibleIDs.txt
 List of free potion ids:
 33
 34
@@ -18,8 +18,6 @@ List of free potion ids:
 48
 49
 54
-55
-56
 57
 58
 59

@@ -1,4 +1,4 @@
-Total amount of occupied potion ids: 192
+Total amount of occupied potion ids: 194
 Table of occupied potion ids and their owners
 id:name(class)
 0 : bl.elixir.sagittarius (thebetweenlands.herblore.elixirs.effects.ElixirEffect$ElixirPotionEffect)
@@ -38,6 +38,8 @@ id:name(class)
 51 : Bleeding (com.arc.bloodarsenal.common.potion.PotionBloodArsenal)
 52 : Swimming (com.arc.bloodarsenal.common.potion.PotionBloodArsenal)
 53 : Soul Burn (com.arc.bloodarsenal.common.potion.PotionBloodArsenal)
+55 : Radiation Sickness (Reika.ReactorCraft.Auxiliary.PotionRadiation)
+56 : Frozen Solid (Reika.RotaryCraft.Auxiliary.FreezePotion)
 60 : potion.infected.gas (stevekung.mods.moreplanets.planets.nibiru.potion.InfectedGasEffect)
 61 : potion.chemical (stevekung.mods.moreplanets.planets.kapteynb.potion.ChemicalEffect)
 62 : potion.emp (stevekung.mods.moreplanets.planets.diona.potion.EMPEffect)
