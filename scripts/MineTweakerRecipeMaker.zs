@@ -24,6 +24,7 @@
 
 // ================================================================================
 //#MARKER ADD SHAPELESS
+recipes.addShapeless(<ReactorCraft:reactorcraft_item_goggles>, [<RotaryCraft:rotarycraft_item_iogoggles>, <ReactorCraft:reactorcraft_item_geiger>]);
 recipes.addShapeless(<guideapi:ItemGuideBook>, [<minecraft:book>, <minecraft:porkchop>]);
 recipes.addShapeless(<TConstruct:heartCanister:6>, [<TConstruct:heartCanister:4>, <TConstruct:heartCanister:5>, <ExtraUtilities:bedrockiumIngot>]);
 
